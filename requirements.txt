@@ -1,0 +1,4 @@
+connexion
+tensorflow==1.6.0
+opencv-python
+h5py==2.7.1
